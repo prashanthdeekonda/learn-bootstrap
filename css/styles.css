@@ -54,7 +54,8 @@ body {
   z-index: 1; }
 
 .modal .modal-dialog .modal-content .modal-header {
-  background: #512da8; }
+  background: #512da8;
+  color: floralwhite; }
   .modal .modal-dialog .modal-content .modal-header .modal-title {
     color: floralwhite; }
   .modal .modal-dialog .modal-content .modal-header .close {
